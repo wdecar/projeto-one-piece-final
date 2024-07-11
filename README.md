@@ -42,3 +42,26 @@ Este projeto é uma página web que apresenta os personagens de One Piece de for
 1. Clone este repositório em sua máquina local.
    ```sh
    git clone https://wdecar.github.io/projeto-one-piece-final/
+
+   Navegue até o diretório do projeto.
+
+   cd repositorio
+
+   Abra o arquivo index.html em seu navegador para ver a página em funcionamento.
+Contribuição
+Sinta-se à vontade para contribuir com o projeto. Você pode abrir uma issue para relatar bugs ou sugerir melhorias, e enviar pull requests com suas alterações.
+
+Licença
+Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+
+Desenvolvido durante a Semana do Zero ao Programador Contratado.
+
+
+Este `README.md` fornece uma visão geral do projeto, descreve a estrutura dos arquivos, apresenta os personagens com suas descrições e imagens, e inclui instruções sobre como executar o projeto e contribuir com ele.
+
+
+
+
+
+
+ 
