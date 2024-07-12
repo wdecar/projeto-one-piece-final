@@ -1,4 +1,4 @@
-# One Piece - Semana do Zero ao Programador Contratado
+# One Piece 
 
 Bem-vindo ao projeto One Piece! Este projeto tem como objetivo apresentar personagens icônicos do anime One Piece. Cada personagem tem uma breve descrição de sua história e papel na tripulação dos Piratas do Chapéu de Palha.
 
